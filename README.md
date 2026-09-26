@@ -18,6 +18,8 @@ You'll choose:
 - The HubSpot task-to-contact association type ID and Slack channel for the task count.
 - Account authorization.
 
+The agent can help identify the stage, contact role property, association type, and owner IDs after you connect HubSpot. It will ask you to connect Slack during setup.
+
 ## Manual setup
 
 If you prefer to set it up yourself:
